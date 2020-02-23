@@ -1,12 +1,16 @@
 h1 {
   text-align: center;
   font-size: large;
-  font-weight: 80px;
+  font-size: 20px;
 }
 
 h2 {
-  text-align: left;
+  text-align: center;
 }
 body {
   background-color: aqua;
+}
+
+div {
+  border-style: solid;
 }
