@@ -12,6 +12,7 @@ body {
 }
 
 div {
-  border-style: solid;
+  border-style: dotted;
+  border-width: thick;
   background-color: blueviolet;
 }
